@@ -11,3 +11,5 @@ library : numpy 1.16.2, pandas 0.24.2, IPython 7.4.0, sys
 in command line  
 or  
 execute all cells in 21-card_trick.ipynb
+
+<img src=results.png width=400>
