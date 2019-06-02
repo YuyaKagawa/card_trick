@@ -13,3 +13,6 @@ or
 execute all cells in 21-card_trick.ipynb
 
 <img src=results.png width=400>
+
+# Page(IN PROGRESS)
+https://yuyakagawa.github.io/card_trick/
